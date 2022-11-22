@@ -2,7 +2,9 @@ import React from "react";
 
 function MainComp() {
   return (
-    <div>MainComp</div>
+    <div>
+     <h2>MainComp</h2>
+    </div>
   )
 }
 

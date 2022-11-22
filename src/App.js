@@ -1,13 +1,14 @@
-//import logo from './logo.svg';
+
 import './App.css';
-import MainComp from './MainComp';
+import FunctionalComp from './Components/FunctionalComp';
+
 
 function App() {
   return (
     <div className="App">
       
-        <h2>Hello world</h2>
-        <MainComp/>
+      <FunctionalComp/>  
+       
     </div>
   );
 }
