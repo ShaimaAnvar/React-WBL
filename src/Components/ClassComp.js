@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 class ClassComp extends Component{
     constructor(){
-        this.name="class";
         super();
+        this.name="class";
     }
     render(){
         return(
